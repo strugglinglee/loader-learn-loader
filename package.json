@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/strugglinglee/loader-learn-loader#readme",
   "dependencies": {
-    "user": "0.0.0"
+    "marked": "^4.0.12",
+    "loader-utils": "^1.0.4"
   }
 }
