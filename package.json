@@ -1,0 +1,22 @@
+{
+  "name": "loader-learn-loader",
+  "version": "1.0.0",
+  "description": "自定义loader学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugglinglee/loader-learn-loader.git"
+  },
+  "author": "lijing",
+  "keywords": [
+    "loader-learn"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strugglinglee/loader-learn-loader/issues"
+  },
+  "homepage": "https://github.com/strugglinglee/loader-learn-loader#readme"
+}
